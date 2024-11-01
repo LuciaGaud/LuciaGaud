@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello! I’m a passionate problem-solver with a background in physics and a strong commitment to leveraging technology to optimize processes and solve business challenges. My expertise spans across various domains, from ERP systems to trade compliance, with a particular focus on the ERP CargoWise (CW).
+Hello! I’m a passionate problem-solver with a background in physics and a strong commitment to leveraging technology to optimize processes and solve business challenges. My expertise spans across various domains, from ERP systems to trade compliance, with a particular focus on the ERP CargoWise (CW) and SAP MM SD and GTS.
 
 As a **super user for CW**, I specialize in customizing reports using SQL and writing scripts in Python, JavaScript, and Node.js to automate tasks and address business needs. I also possess in-depth knowledge in **customs, trade compliance, and logistics**, allowing me to bridge technical and business requirements effectively.
 
@@ -23,7 +23,7 @@ You can find these projects and others in my repositories, where I strive to bui
 
 ## Current Focus
 
-Right now, I am working on a series of tools to **automate and streamline data uploads in CargoWise using XML**. This project aims to simplify data integration, reduce manual entry, and improve data accuracy. The ultimate goal is to create a suite of tools that allow for seamless data processing across multiple domains within CW.
+Right now, I am working on a series of tools to **automate and streamline data uploads across different platforms**. This project aims to simplify data integration, reduce manual entry, and improve data accuracy. The ultimate goal is to create a suite of tools that allow for seamless data processing across multiple domains within CW.
 
 ## Let's Connect
 
